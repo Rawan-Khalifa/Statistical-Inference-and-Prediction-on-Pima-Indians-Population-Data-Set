@@ -1,0 +1,1 @@
+# Statistical-Inference-and-Prediction-on-Pima-Indians-Population-Data-Set
